@@ -1,29 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-05-20 21:56:00 -0500
+title: "Starting with Jekyll"
+date: 2020-05-20 21:56:00 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Today I took a break from a few projects I was working on to start this blog. I have an aversion to systems like Wordpress and Wix (though they have their place in the world) so I decided to try something new: Jekyll. Jekyll is essentially a static blog system that works well with GitHub Pages. As most of my projects are hosted on Heroku, this was also a good excuse to add a little diversity to my hosting providers.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+It took me an hour or so to get my first Jekyll blog up and running on GitHub pages, but once I had the generated site published, making it my own was easy. I may add some styling later, but as this site is meant mainly to capture my thoughts, I will probably just leave it with the default theme for the time being.
