@@ -24,7 +24,7 @@ description: >-
   A blog to track my development work on different projects.
 baseurl: "/developer-blog"
 url: "https://adam-on-the-internet.github.io"
-twitter_username: @adam_on_the_net
+twitter_username: adam_on_the_net
 github_username:  adam-on-the-internet
 
 # Build settings
