@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting with Jekyll"
-date: 2020-05-20 21:56:00 -0500
+date: 2020-05-20
 categories: jekyll update
 ---
 
