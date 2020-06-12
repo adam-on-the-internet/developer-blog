@@ -18,7 +18,7 @@ provides a place for me to expose any images I want to use in Twine games.
 
 I wanted to keep things as barebones as possible, so this site is just one html file that is populated
 by a short bit of JavaScript. That JavaScript reads a local JSON file that catalogs the images stored
-within the application. 
+within the application. The site is hosted on GitHub pages.
 
 In the future, I will want to find non-static ways to manage images. For now, this is more than enough.
 
