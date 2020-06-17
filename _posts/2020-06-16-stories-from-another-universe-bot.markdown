@@ -7,15 +7,16 @@ categories: bot
 
 I just created my first Twitter Bot, [Stories from Another Universe][stories-universe]. 
 
-This bot tweets out titles of books and movies "from another universe", which just means I have 
-replaced nouns and adjectives from popular titles with random other nouns and adjectives. 
-For instance, Eternal Sunshine of the Spotless Mind might become Eternal Sunshine of the Confused Mind.
+This bot tweets out titles of media "from another universe". To create these titles I took popular media (books,
+movies, games, etc) and substituted nouns & adjectives randomly. 
+For instance, ***Indiana Jones and the Temple of Doom*** might become ***Indiana Jones and the Toilet of Doom***.
 I was inspired to do this because my Order in the Court app has a similar function 
 that generates random case names in the format
-"The Case of the ADJECTIVE NOUN". I enjoyed seeing this randomly generated phrases (some funnier than others), 
+***The Case of the ADJECTIVE NOUN***. I enjoyed seeing the randomly generated phrases (some funnier than others), 
 and wanted that 
-feature to live on its own. This uses some of the same code as Order in the Court does, which made this a very
-small bit of work.
+feature to live on its own. That exact structure is used by this bot with 
+**Sherlock Holmes and the Case of the ADJECTIVE NOUN***.
+This uses some of the same code as Order in the Court does.
 
 This app allowed me to experiment with the Twitter API and cron-jobs, both of which I am unfamiliar with. 
 I used the Twitter Developer API a bit with Order in the Court, but this would be a more intentional use. 
