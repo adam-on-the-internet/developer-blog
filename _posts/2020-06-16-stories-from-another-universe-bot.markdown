@@ -15,7 +15,7 @@ that generates random case names in the format
 ***The Case of the ADJECTIVE NOUN***. I enjoyed seeing the randomly generated phrases (some funnier than others), 
 and wanted that 
 feature to live on its own. That exact structure is used by this bot with 
-**Sherlock Holmes and the Case of the ADJECTIVE NOUN***.
+***Sherlock Holmes and the Case of the ADJECTIVE NOUN***.
 This uses some of the same code as Order in the Court does.
 
 This app allowed me to experiment with the Twitter API and cron-jobs, both of which I am unfamiliar with. 
