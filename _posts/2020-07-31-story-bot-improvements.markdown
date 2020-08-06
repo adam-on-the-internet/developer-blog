@@ -5,7 +5,7 @@ date: 2020-07-31
 categories: bot
 ---
 
-I enhanced by Twitter bot [Stories from Another Universe][stories-universe] yet again. I've slowly been adding
+I enhanced my Twitter bot [Stories from Another Universe][stories-universe] yet again. I've slowly been adding
 content (stories to alter and words to use) but this may be the final update to the functionality.
 
 First, I refactored the existing Story Bot code to use async/await instead of explicit promises. I'm not sure which I
