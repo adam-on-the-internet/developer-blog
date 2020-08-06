@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clue Bot Update: Improvements"
-date: 2020-08-04
+date: 2020-08-05
 categories: bot
 ---
 
