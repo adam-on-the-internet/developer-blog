@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Elf"
+date: 2020-12-12
+categories: meme
+---
+
+This week I saw a tweet suggesting a joke bot and decided to see if I could make it a reality. 
+In about an hour I was able to make a simple version of the idea in a website but unfortunately not a bot.
+
+The idea came from this [Tweet][og-tweet] saying 'bot idea: "you've heard of elf on a shelf, now get ready for" and then it puts a random transparent image on top of a random image of a scene'.
+This idea struck me because it was similar to an existing app I made called [Scene Creator][scene-creator] that had 
+random characters float over a random background. In about an hour, I was able to use pieces from 
+that app to create the joke website [here][elf-site].
+
+It is a simple Angular site on GitHub Pages. Not much to look at, but it was fun to create a spontaneous project
+that people actually checked out and enjoyed. This would be really remarkable if I could make it into a Twitter Bot,
+but I have no idea how to get a bot to create html images (or any images). I'll have to investigate that in the future.
+
+[elf-site]: https://adam-on-the-internet.github.io/elf/
+[og-tweet]: https://twitter.com/NoraReed/status/1336855139588714496
+[scene-creator]: https://adam-on-the-internet.github.io/scene-creator
