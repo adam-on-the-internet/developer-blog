@@ -22,8 +22,12 @@ of the world. For instance, it compares the progress of Good and Evil heroes and
 if the world is overall Good or Evil. This is also minimal, but could be used in the future to affect the stories 
 as they unfold. If nothing else, it provides fun statistics to look at.
 
-Lastly, the world information and the general stats will be tweeted out each Sunday. This will provide a record
+The world information and the general stats will be tweeted out each Sunday. This will provide a record
 of the bot's overall progress and overarching story. 
+
+There are a few additional updates that go beyond content, mainly the enabling of randomized adjectives and 
+weather conditions that can be used to impact the hero's journey. These will be less obvious but allow
+me to add another layer of randomness.
 
 For now, I will probably continue to make minor tweaks and content updates, but I am sure I will
 add more significant changes in the future.
