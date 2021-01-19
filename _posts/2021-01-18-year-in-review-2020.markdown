@@ -1,0 +1,113 @@
+---
+layout: post
+title: "Year in Review 2020"
+date: 2021-01-18
+categories: review
+---
+
+I wanted to take a moment to review some key projects I worked on in 2020 as I plan out 
+what to do in 2021. Many of these projects have detailed blog posts on this site.
+These apps (and more) can be found at my [App Hub][app-hub].
+They are ordered by what I find the most to least interesting.
+
+#1: [Order in the Court][order] [(Twitter @OrderlnTheCourt)][order-tw]
+
+The largest project I worked on in 2020 was the ridiculous improv storytelling courtroom game Order in the Court. 
+Years back, this was a game I invented with a few friends and some blank index cards. 
+I attempted to turn it into a web-based game years back but never completed the project.
+Throughout 2020, as I migrated and deleted old incomplete projects, I decided to restart this from scratch. 
+This new version worked better than expected, especially in the pandemic since it worked well with friends over Zoom.
+For a few months, I actively playtested the game and even grew a small audience who played the game without my prompting.
+This is a project that works but still needs work (and promotion). I hope to continue this in 2021.
+This was my first attempt at any multiplayer game. I hope to branch out to other similar projects after this one.
+
+#2: [The Quest Bot][qb] [(Twitter @thequestbot)][qb-tw]
+
+This was the last (and largest) Twitter Bot I made in 2020. The Quest Bot creates randomized heroes and sends them on 
+randomized quests until they eventually die, at which point it creates a new hero. This project was very exciting 
+for me because it was a form of emergent storytelling, meaning essentially the project itself would create stories
+without my help. At first, it took the form of a 0-player game (it played itself without allowing interaction) but I have recently
+introduced some ways for anyone to interact by helping or hurting the hero on their journey. I plan to keep adding 
+small features (and plenty of content) to this project, eventually reusing the pattern for a new storytelling bot using
+what I have learned from this one.
+
+#3: [The Clue Bot][cb] [(Twitter @thecluebot)][cb-tw]
+
+The Clue Bot was my second bot. It tells murder mystery stories in a cycle. Each story is essentially the same, but the 
+bot randomizes the victim, suspects, weapons, places, clues, and other messages. The breakthrough here was having a bot
+that has a state, and thus a history, and thus the ability to tell a somewhat logical progressive story. This is probably 
+the least interesting bot to watch on its own, but it was the most fun to make.
+
+#4: [Stories from Another Universe (Twitter @storiesuniverse)][stories]
+
+Stories from Another Universe was my first Twitter bot. I had toyed around with the Twitter API before (for instance, 
+Order in the Court tweets when a game finishes) but this was the first project that entirely tweeted on its own. This
+and the other bots I have made since use a CRON job to tweet on a schedule. 
+
+This is by far the simplest bot. It takes a well-known piece of media (a book, movie, video game, quote, etc) and replaces
+one or two words randomly, creating a story "from another universe". I had fun with this project, creating different 
+substitution methods. These methods include random adjective and noun replacement, rhymes, synonyms, and more. This 
+bot is very hit or miss, but it is always exciting when a bot that has no idea what its doing comes up with a decent 
+parody title.  
+
+#5: [My itch.io Games][itch]
+
+This summer I created a few games on itch.io. The largest of these, Survive Maine, was created for a game jam.
+None of these games are particularly spectacular (though Survive Maine is fun for a good 10/15 minutes) but I 
+want to collaborate with others and create a more full-feeling game in 2021.
+
+#6: [FiftyFour Blocks][fiftyfour]
+
+FiftyFour Blocks was the last project of the year. It is the working version of an incomplete project I 
+started years back. Instead of migrating that old project, I decided to take a couple days and start from scratch to 
+complete the project. It needs more content and a few more features, but it works as a companion for Jenga (namely, 
+drunk Jenga). 
+
+#7: [Adam on the Internet][aoti] [(Twitter @adam_on_the_net)][aoti-tw]
+
+After many other attempts at professional sites, the most recent callananconcepts.club failing because corporate firewalls block .club domains,
+I finally landed on adamontheinternet.com. This site is the face of any future professional endeavor I take up. It 
+isn't much on its own but its good to have an anchor on the web.
+
+#8: [Chit Chat][chat]
+
+Chit Chat was one of my smaller projects. This is a website that simply produces conversation starters. The concept
+came from "chit chat" cards I found in a thrift store in college.
+
+#9: [My App Hub][app-hub]
+
+I needed one place to connect all my apps, so I created my App Hub. This allows me to keep a list of all my projects together.
+I can feature some and archive others. Since I do a lot of small weekend experiments, it is good to have a public record of everything I'm working on.
+It also allows me to have some universal pages such as "donate" so that I can link from different apps to one spot rather than rebuilding
+a page in every app. The "Featured" apps from here are also used on adamontheinternet.com.
+
+#10: My Core Data Service
+
+This service runs almost every user-facing app I built this year. 
+It uses Express, NodeJS, MongoDB, and other key libraries.
+The app has authentication that I share between 
+my projects that keeps things simple for me and allows me to create new projects quickly. I have one core service instead 
+of many smaller services partly because this allows me to utilize the free version of Heroku. 
+In the future, it would be better to have one auth service with many smaller services that use the auth service for security. 
+
+[app-hub]: https://adam-on-the-internet.github.io/app-hub
+
+[order]: https://order-in-the-court-app.herokuapp.com/
+[order-tw]: https://twitter.com/OrderlnTheCourt
+
+[aoti]: http://www.adamontheinternet.com/
+[aoti-tw]: https://twitter.com/adam_on_the_net
+
+[cb]: https://adam-on-the-internet.github.io/the-clue-bot
+[cb-tw]: https://twitter.com/thecluebot
+
+[qb]: https://adam-on-the-internet.github.io/the-quest-bot-ui
+[qb-tw]: https://twitter.com/thequestbot
+
+[stories]: https://twitter.com/StoriesUniverse
+
+[itch]: https://fakefanadam.itch.io/
+
+[chat]: https://adam-on-the-internet.github.io/chit-chat
+
+[fiftyfour]: https://adam-on-the-internet.github.io/fiftyfour-blocks
