@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Mystery Mansion Companion"
+date: 2022-01-03
+categories: general
+---
+
+// todo...
