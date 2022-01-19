@@ -11,7 +11,7 @@ Most of these projects have detailed blog posts on this site.
 I keep a running archive of my apps at my [App Hub][app-hub].
 This list is ordered by what I find the most to least interesting.
 
-#1: [Mystery Mansion App](https://github.com/adam-on-the-internet/mystery-mansion)
+## 1: [Mystery Mansion App](https://github.com/adam-on-the-internet/mystery-mansion)
 
 At the end of the year, over the holiday break in December, 
 I took some time to create a Python 3 app to replace the electronic version of an old 90s board game.
@@ -24,7 +24,7 @@ It was a fun game to reverse engineer, and I hope to return to this project to i
 more game modes, and maybe even a browser version. I also found some other projects on GitHub that accomplish
 the same ends, so I may see if I can research those to find any tricks I may have missed.
 
-#2: [Vaudeville Mews Bot](https://twitter.com/VaudevilleMewsB)
+## 2: [Vaudeville Mews Bot](https://twitter.com/VaudevilleMewsB)
 
 I've made a number of Twitter Bots over the past year, the most popular of which is the new "Today at the Vaudeville Mews"
 Twitter Bot. The Vaudeville Mews is a local venue that recently closed during the pandemic. Previously, I wrote
@@ -41,14 +41,14 @@ beyond the purpose of a Bot).
 
 I'm eager to find similar gaps where a Bot tied to Web Scraping Data may come in handy.
 
-#3: Candidate Sites [One](https://www.indira4dsm.com/#/) & [Two](https://www.rossgrooters.com/#/)
+## 3: Candidate Sites [One](https://www.indira4dsm.com/#/) & [Two](https://www.rossgrooters.com/#/)
 
 In 2021 I worked on a couple of websites for political candidates. 
 These were done as In-Kind Contributions (I think that's the term, I'm not a lawyer) or donated services,
 but treated as freelance work. I am glad I got to use my software skills for these projects and hope to find
 more freelance type work in the future.
 
-#4: [Phasmaphobia Helper](https://adam-on-the-internet.github.io/phasmaphobia-helper/#/)
+## 4: [Phasmaphobia Helper](https://adam-on-the-internet.github.io/phasmaphobia-helper/#/)
   
 I created a helper app for the video game Phasmaphobia, in which you discover evidence to deduce the kind of 
 ghost that is haunting the location you're investigating. This was a fairly simple app, just a single screen,
@@ -56,35 +56,35 @@ and I actually used it with friends quite a bit so it went through some real rou
 It also had to be occasionally updated as the game added more ghost types. I'm really happy with how this turned out,
 and hope to continue finding projects like this that I can actually get feedback to improve.
 
-#5: Maintenance
+## 5: Maintenance
 
 The least "interesting" but vital, now that I have a number of live apps I have to find ways to keep maintaining them.
 In addition to routine checks that the Bots are Tweeting and the websites are up and running, I also try to add
 some amount of content each week between the Bots, the Order in the Court game, and other apps. This could really use
 a whole project, some way to organize and automate these checks.
   
-#Bonus: Bot Review!
+## Bonus: Bot Review!
 
 In addition to reviewing the year's projects, I wanted to check on the status of my bots:
 
-##[The Clue Bot](https://twitter.com/TheClueBot)
+### [The Clue Bot](https://twitter.com/TheClueBot)
 
 The Clue Bot has 20 followers and has run through 293 mysteries.
 The most common solutions include The Balcony, Elizabeth Bloodwell, and Poison.
 
-##[Stories from Another Universe](https://twitter.com/StoriesUniverse)
+### [Stories from Another Universe](https://twitter.com/StoriesUniverse)
 
 Stories from Another Universe has 31 followers.
 
-##[The Quest Bot](https://twitter.com/TheQuestBot)
+### [The Quest Bot](https://twitter.com/TheQuestBot)
 
 The Quest Bot has 35 followers and has run through 27 heroes.
 The most successful hero has been Felicia Abadon, who reached Level 10, completed 12 quests, and lasted 482 updates.
 
-##[Today at the Vaudeville Mews](https://twitter.com/VaudevilleMewsB)
+### [Today at the Vaudeville Mews](https://twitter.com/VaudevilleMewsB)
 
 Today at the Vaudeville Mews has 75 followers.
 
-##[Order in the Court](https://twitter.com/OrderlnTheCourt)
+### [Order in the Court](https://twitter.com/OrderlnTheCourt)
 
 Order in the Court (not fully a bot, but uses one) has 11 followers and run 75 cases.
